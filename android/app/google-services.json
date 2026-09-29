@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "216929737421",
+    "project_id": "rose-perfume",
+    "storage_bucket": "rose-perfume.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216929737421:android:3a420f8f7813fab054e784",
+        "android_client_info": {
+          "package_name": "com.roseperfume.rose_perfume_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnQbFvh9WLe7qZ3EpA6m0QMLYj4-qf4lU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
